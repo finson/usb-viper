@@ -1,0 +1,39 @@
+{
+  "author": "Doug Johnson <strix@whidbey.com>",
+  "bugs": {
+    "url": "https://github.com/finson-release/usb-viper/"
+  },
+  "dependencies": {
+    "log4js": ">=0.6",
+    "path": ">=0.12",
+    "node-args": ">=0.12",
+    "fs": ">=0.0"
+  },
+  "description": "Node js app to extrace Arduino-related USB VID/PID information from boards.txt files.",
+  "devDependencies": {
+  },
+  "directories": {
+    "doc": "doc",
+    "example": "examples"
+  },
+  "homepage": "https://github.com/finson-release/finson-release.github.io/wiki",
+  "keywords": [
+    "javascript",
+    "USB",
+    "VID",
+    "Vendor ID",
+    "PID",
+    "Product ID",
+    "boards.txt",
+    "Arduino"
+  ],
+  "license": "GPL-3.0",
+  "main": "./lib/viper.js",
+  "name": "usb-viper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finson-release/usb-viper"
+  },
+  "scripts": {},
+  "version": "0.1"
+}
